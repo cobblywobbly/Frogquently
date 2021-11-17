@@ -60,7 +60,7 @@ function draw() {
     fill(116, 126, 128);
     textFont(fontRegular);
     text('CLICK FROGS TO ASK A QUESTION', 150, 320);
-      text('(may only work on desktop', 150, 350);
+    text('(may only work on desktop', 150, 350);
     
     textSize(20);
     text('FROGQUENTLY', 150, 65);
